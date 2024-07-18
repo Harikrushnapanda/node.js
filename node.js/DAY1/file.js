@@ -38,3 +38,8 @@ fs.appendFileSync("./test.txt",'${Date.now()} Hey there\n');// date will come
 //fs.unlinkSync("./copy.txt");
 //console.log(fs.statSync("./test.txt").isFile());// we can check stats of file.
 // fs.mkdirSync("my-doc");// create folder
+
+
+//fs.unlinkSync("./copy.txt");
+//console.log(fs.statSync("./test.txt").isFile());// we can check stats of file.
+// fs.mkdirSync("my-doc");// create folder
